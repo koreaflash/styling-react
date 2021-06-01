@@ -1,4 +1,5 @@
-@import './styles/utils.scss';
+//@import 'utils.scss'; //webpack.config.js : sassRegex : additionalData
+//@import '~include-media/dist/include-media';  //node_modules : ~ 사용
 
 .SassComponent{
     display: flex;
